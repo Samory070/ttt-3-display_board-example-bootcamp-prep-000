@@ -2,7 +2,8 @@
 
 def display_board
  row1 = [' '|,' '|,' ' ]
- dash = 
+ dash = -----------
  row2 = [' '|,' '|,' ' ]
+ dash = -----------
  row3 = [' '|,' '|,' ' ]
 end
